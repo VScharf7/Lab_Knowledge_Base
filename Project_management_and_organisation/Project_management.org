@@ -3,8 +3,9 @@
 - "Plan your work; work your plan"
 
 
-When woking with colaborators:
+When working with collaborators:
 - At the beginning ask for a expose/abstract
-- Have a share todo list
+- Have a sharedcrypt todo list
 
 
+Options to start : https://gitlab.zbmed.de/data_science_and_services/Script_Template_Collection/-/blob/master/Shell/create_new_project.sh
